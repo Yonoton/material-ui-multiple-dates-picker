@@ -25,10 +25,10 @@ var useStyles = (0, _styles.makeStyles)(function (theme) {
       flexDirection: 'row',
       justifyContent: 'space-between',
       textAlign: 'center',
-      marginBottom: theme.spacing(1),
+      marginBottom: 1,
       '& > *': {
         width: 36,
-        margin: "0 ".concat(theme.spacing(1), "px")
+        margin: "0 1px"
       }
     }
   };

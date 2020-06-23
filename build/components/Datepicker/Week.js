@@ -46,15 +46,15 @@ var styles = function styles(theme) {
       flexDirection: 'row',
       justifyContent: 'space-between',
       height: 34,
-      marginBottom: theme.spacing(2)
+      marginBottom: 2
     },
     day: {
-      margin: "0 ".concat(theme.spacing(1), "px")
+      margin: "0 1px"
     },
     blank: {
       width: 36,
       height: 36,
-      margin: "0 ".concat(theme.spacing(1), "px")
+      margin: "0 1px"
     }
   };
 };
